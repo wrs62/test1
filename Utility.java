@@ -17,6 +17,10 @@ public class Utility {
 	public void otherTestClass() {
 		;
 	}
+
+	public void secondTestClass() {
+		;
+	}
 	
 	
 
